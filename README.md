@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Sardor, Web developer and Digital Product designer at JSCB Universalbank.
+
+* Check out my [resume](https://gist.github.com/SardorAllaberganov/65e4d59f03e3fdffeb4f9bb1b545e9fc)
+* Currently I'm working at Universalbank
+
+  You can reach out to me via [sardorallaberganov96@gmail.com](mailto:sardorallaberganov96@gmail.com)
 
 <!--
 **SardorAllaberganov/SardorAllaberganov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
