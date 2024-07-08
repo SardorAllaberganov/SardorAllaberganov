@@ -1,6 +1,4 @@
-## Hi there 👋 
-
-## I'm Sardor, Web developer and Digital Product designer at JSCB Universalbank.
+### Hi there 👋 I'm Sardor, Web developer and Digital Product designer at JSCB Universalbank.
 
 * Check out my [resume](https://gist.github.com/SardorAllaberganov/65e4d59f03e3fdffeb4f9bb1b545e9fc)
 * Currently I'm working at Universalbank
