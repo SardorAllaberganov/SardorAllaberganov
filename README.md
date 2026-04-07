@@ -19,4 +19,7 @@ Building fintech products used by **1M+ users** across Uzbekistan and CIS. Leadi
 
 ---
 
-📄 [Resume](https://gist.github.com/SardorAllaberganov/65e4d59f03e3fdffeb4f9bb1b545e9fc) · 🎨 [Behance](https://www.behance.net/SardorAllaberganov) · 💼 [LinkedIn](https://www.linkedin.com/in/sardor-allaberganov/) · 📧 [sardorallaberganov96@gmail.com](mailto:sardorallaberganov96@gmail.com)
+📄 [Resume](https://gist.github.com/SardorAllaberganov/65e4d59f03e3fdffeb4f9bb1b545e9fc) 
+🎨 [Behance](https://www.behance.net/SardorAllaberganov)
+💼 [LinkedIn](https://www.linkedin.com/in/sardor-allaberganov/)
+📧 [sardorallaberganov96@gmail.com](mailto:sardorallaberganov96@gmail.com)
