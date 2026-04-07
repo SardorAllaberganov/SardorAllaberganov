@@ -1,22 +1,30 @@
-### Hi there 👋 I'm Sardor, Web developer and Digital Product designer at JSCB Universalbank.
+# Sardor Allaberganov
 
-* Check out my [resume](https://gist.github.com/SardorAllaberganov/65e4d59f03e3fdffeb4f9bb1b545e9fc)
-* Currently I'm working at Universalbank
+**Lead Product Designer & Full-Stack Engineer** at JSCB Universalbank
 
-You can reach out to me via [sardorallaberganov96@gmail.com](mailto:sardorallaberganov96@gmail.com)
+Building fintech products used by **1M+ users** across Uzbekistan and CIS. Leading a design team of 3, owning the company-wide design system, and engineering AI-powered financial applications.
 
+---
 
-<!--
-**SardorAllaberganov/SardorAllaberganov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I Do
 
-Here are some ideas to get you started:
+- **Product Design** — Mobile banking, payment gateways, POS terminals, and B2B platforms
+- **Full-Stack Engineering** — Node.js, Express 5, React, TypeScript, MongoDB, Python
+- **AI Integration** — Google Gemini multimodal pipelines for text, voice, and vision
+- **Design Systems** — Component libraries, design tokens, and cross-platform consistency
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+
+**CashFlow Bot** — AI-powered personal finance assistant for Telegram. Natural-language expense tracking in Uzbek/Russian/English using Google Gemini, with a Mini App dashboard for analytics and export.
+
+**Ucoin Admin Dashboard** — Production operations dashboard for a digital wallet platform processing transactions across UZCARD, HUMO, VISA, Mastercard, and MIR with cross-border corridors.
+
+**POS SaaS Platform** — Multi-tenant point-of-sale backend with partner isolation, RBAC, and tri-lingual support for the Uzbekistan market.
+
+### Tech Stack
+
+`Node.js` `Express` `React` `TypeScript` `MongoDB` `Python` `Django` `Tailwind CSS` `Google Gemini API` `Telegram Bot API` `Figma` `Redis`
+
+---
+
+📄 [Resume](https://gist.github.com/SardorAllaberganov/65e4d59f03e3fdffeb4f9bb1b545e9fc) · 🎨 [Behance](https://www.behance.net/SardorAllaberganov) · 💼 [LinkedIn](https://www.linkedin.com/in/sardor-allaberganov/) · 📧 [sardorallaberganov96@gmail.com](mailto:sardorallaberganov96@gmail.com)
